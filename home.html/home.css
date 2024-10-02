@@ -1,0 +1,23 @@
+*{
+    text-align: center;
+}
+.h1{
+    background-color: aqua ;
+    height: 50px;
+    width: 100%;
+}
+span{
+    background-color: gray;
+    height: 40px;
+    width: 100%;
+}
+
+.MAIN{
+    color: green;
+}
+*{
+    text-align: center;
+}
+.h{
+    background-color: gray;
+}
